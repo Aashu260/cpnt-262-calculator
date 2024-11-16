@@ -15,7 +15,7 @@ Replace
 - (num1) with the first number
 - (operator) with one of the following operators- [ "+" , "-" , "*" , "/" ]
 - (num2) with the second number
-- nnow just enter and you will get your result.
+- now just enter and you will get your result.
 
 ## Challanges
 
